@@ -222,8 +222,8 @@ This document provides an overview of the key components and services that power
 This overview provides a comprehensive look at the backend architecture powering the PawMatch application, ensuring scalability, security, and performance for all users.
 
 
-output screenshots:
-frontend:
+<h1>output screenshots:</h1>
+<h2>Frontend:</h2>
 <img width="940" height="432" alt="image" src="https://github.com/user-attachments/assets/dfcc5a49-f1f4-4cfd-922a-1f8eb17d353f" />
 <img width="951" height="662" alt="image" src="https://github.com/user-attachments/assets/b37f39ca-a7d3-4e9b-a9ff-cddd022ee485" />
 <img width="940" height="395" alt="image" src="https://github.com/user-attachments/assets/7fba8f09-cf3c-499a-99b8-b23cde6233c3" />
@@ -231,7 +231,7 @@ frontend:
 <img width="940" height="540" alt="image" src="https://github.com/user-attachments/assets/c9446c9c-31bc-42e5-b4a1-a103177a1c7b" />
 <img width="599" height="618" alt="image" src="https://github.com/user-attachments/assets/840b391c-ee32-42c1-b5dd-7b1b414ae49a" />
 <img width="940" height="547" alt="image" src="https://github.com/user-attachments/assets/38e1304f-3d99-4393-9911-33fb75627cfd" />
-Backend:
+<h2>Backend:</h2>
 <img width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/b8c39caa-855a-4114-ab7c-5350de84d2c8" />
 <img width="940" height="442" alt="image" src="https://github.com/user-attachments/assets/65714a56-b806-488f-8b2e-d95ec5a1d248" />
 <img width="1012" height="741" alt="image" src="https://github.com/user-attachments/assets/ef400dfb-62c4-48f7-aa9f-9869bdff9a93" />
