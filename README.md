@@ -10,8 +10,6 @@ A modern, responsive web application built with React, TypeScript, and Vite, des
 - **State Management**: Utilizes React Query for efficient data fetching and caching
 - **Form Handling**: Robust form validation with React Hook Form and Zod
 - **Theming**: Supports light/dark mode
-- **Animations**: Smooth UI interactions with Framer Motion
-- **Accessibility**: Built with a11y in mind using Radix UI primitives
 
 ## 🛠 Tech Stack
 
