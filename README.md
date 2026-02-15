@@ -7,8 +7,8 @@ A modern, responsive web application built with React, TypeScript, and Vite, des
 - **Pet Browsing**: View available pets with detailed profiles.
 - **Responsive Design**: Works on desktop, tablet, and mobile devices
 - **Modern UI**: Built with shadcn/ui components and Tailwind CSS.
-- **State Management**: Utilizes React Query for efficient data fetching and caching
-- **Form Handling**: Robust form validation with React Hook Form 
+- **State Management**: Utilizes React Query for efficient data fetching and caching.
+- **Form Handling**: Robust form validation with React Hook Form .
 - **Theming**: Supports light/dark mode.
 
 ## 🛠 Tech Stack
