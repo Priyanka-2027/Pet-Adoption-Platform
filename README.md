@@ -1,4 +1,4 @@
-# Pet Adoption Platform - Frontend
+# Pet Adoption Platform 
 
 A modern, responsive web application built with React, TypeScript, and Vite, designed to connect pets in need with loving homes
 
